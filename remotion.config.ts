@@ -8,6 +8,12 @@
 import { Config } from "@remotion/cli/config";
 
 Config.setRspack(true);
+Config.overrideRspackConfig((config) => {
+  config.module ??= {};
+  config.module.rules ??= [];
+  config.module.rules.push({ test: /\.ogg$/, type: "asset/resource" });
+  return config;
+});
 Config.setVideoImageFormat("jpeg");
 Config.setOverwriteOutput(true);
 Config.setDefaultPremountInSeconds(2);

@@ -1,4 +1,9 @@
 import { Composition, Folder } from "remotion";
+import { BlackSea } from "./films/black-sea/Composition";
+import {
+  duration as blackSeaDuration,
+  fps as blackSeaFps,
+} from "./films/black-sea/score";
 import { Resistance } from "./films/hmmlr/Composition";
 import {
   duration as archiveDuration,
@@ -9,6 +14,14 @@ import { duration, fps } from "./films/red-dusk/score";
 
 export const RemotionRoot = () => (
   <>
+    <Composition
+      id="BlackSeaVesselOfSin"
+      component={BlackSea}
+      durationInFrames={blackSeaDuration}
+      fps={blackSeaFps}
+      width={1920}
+      height={1080}
+    />
     <Composition
       id="RedDuskGoodbyeForever"
       component={RedDusk}

@@ -1,0 +1,157 @@
+{
+  "fps": 30,
+  "themeStarts": [27.438, 82.293],
+  "themeEnds": [54.875, 109.731],
+  "shots": {
+    "soundings": {
+      "at": 0,
+      "name": "The Black Sea",
+      "transition": "cut",
+      "accents": [0.649, 2.804, 4.51, 5.797]
+    },
+    "quay": {
+      "at": 6.864,
+      "name": "At the quay",
+      "transition": "wave",
+      "accents": [7.932, 9.648, 11.374, 12.651]
+    },
+    "ward": {
+      "at": 13.719,
+      "name": "Field hospital",
+      "transition": "curtain",
+      "accents": [14.367, 16.083, 17.141, 17.999]
+    },
+    "dissent": {
+      "at": 18.867,
+      "name": "Evacuation remains possible",
+      "transition": "paper",
+      "accents": [19.506, 20.573, 21.222]
+    },
+    "paris": {
+      "at": 22.289,
+      "name": "The decision in Paris",
+      "transition": "edge",
+      "accents": [22.938, 24.005, 25.722, 26.36]
+    },
+    "firstLight": {
+      "at": 27.438,
+      "name": "Sevastopol, 17 September",
+      "transition": "cut",
+      "accents": [28.296, 30.012, 31.728, 33.434]
+    },
+    "brokenPort": {
+      "at": 34.292,
+      "name": "The broken harbour",
+      "transition": "wash",
+      "accents": [35.15, 36.866, 38.582, 40.288]
+    },
+    "lift": {
+      "at": 41.156,
+      "name": "The stretcher",
+      "transition": "curtain",
+      "accents": [42.015, 43.721, 45.437, 47.153]
+    },
+    "search": {
+      "at": 48.011,
+      "name": "Families of the missing",
+      "transition": "glass",
+      "accents": [48.869, 50.585, 52.291, 54.007]
+    },
+    "hotline": {
+      "at": 54.875,
+      "name": "The hotline",
+      "transition": "edge",
+      "accents": [55.723, 57.439, 58.298, 59.156]
+    },
+    "shelter": {
+      "at": 60.014,
+      "name": "At the station",
+      "transition": "window",
+      "accents": [60.872, 62.578, 63.236, 64.294]
+    },
+    "cabinet": {
+      "at": 65.152,
+      "name": "The meeting in Moscow",
+      "transition": "curtain",
+      "accents": [66.01, 67.726, 68.584, 69.442]
+    },
+    "president": {
+      "at": 70.3,
+      "name": "President Kravtsova",
+      "transition": "paper",
+      "accents": [71.148, 72.864, 73.303, 74.58]
+    },
+    "teaRoom": {
+      "at": 75.439,
+      "name": "Morning on the Sea of Marmara",
+      "transition": "glass",
+      "accents": [76.297, 78.003, 79.719, 81.435]
+    },
+    "secondLight": {
+      "at": 82.293,
+      "name": "Turkey, 18 September",
+      "transition": "cut",
+      "accents": [83.151, 84.867, 86.583, 88.299]
+    },
+    "marmara": {
+      "at": 89.157,
+      "name": "At the clinic",
+      "transition": "wash",
+      "accents": [90.005, 91.722, 93.438, 95.154]
+    },
+    "london": {
+      "at": 96.012,
+      "name": "The decision in London",
+      "transition": "curtain",
+      "accents": [96.87, 98.586, 100.302, 102.008]
+    },
+    "limits": {
+      "at": 102.866,
+      "name": "The last detonation",
+      "transition": "edge",
+      "accents": [103.724, 105.44, 107.156, 108.863]
+    },
+    "survey": {
+      "at": 109.731,
+      "name": "Water and soil",
+      "transition": "wave",
+      "accents": [110.579, 112.085, 113.153, 114.011]
+    },
+    "clearance": {
+      "at": 114.869,
+      "name": "Clearing the rubble",
+      "transition": "window",
+      "accents": [115.727, 116.585, 118.291, 119.149]
+    },
+    "records": {
+      "at": 120.007,
+      "name": "Accounting for the dead",
+      "transition": "paper",
+      "accents": [121.085, 122.581, 124.288, 126.014]
+    },
+    "migration": {
+      "at": 126.872,
+      "name": "Displacement",
+      "transition": "curtain",
+      "accents": [127.72, 129.436, 130.294, 131.152]
+    },
+    "carryOn": {
+      "at": 132.01,
+      "name": "Conventional war",
+      "transition": "window",
+      "accents": [132.868, 133.726, 135.442, 136.29]
+    },
+    "salt": {
+      "at": 137.148,
+      "name": "The trace",
+      "transition": "wash",
+      "accents": [137.797, 139.503, 141.219, 142.935]
+    },
+    "coda": {
+      "at": 144.003,
+      "name": "Salt on Glass",
+      "transition": "wave",
+      "accents": []
+    }
+  }
+}

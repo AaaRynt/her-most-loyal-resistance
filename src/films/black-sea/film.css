@@ -1,0 +1,19 @@
+@import "./fonts/faces.css";
+
+.black-sea-film {
+  background: #121d3d;
+  isolation: isolate;
+  overflow: hidden;
+}
+.black-sea-film .sea-plate {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+.black-sea-film .sea-grain {
+  position: absolute;
+  inset: 0;
+  background: url("./salt-paper.png") repeat;
+  opacity: 0.75;
+  pointer-events: none;
+}

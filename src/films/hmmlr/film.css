@@ -1,18 +1,18 @@
 @font-face {
   font-family: "Instrument Serif";
-  src: url("../public/fonts/instrument-serif.woff2") format("woff2");
+  src: url("./fonts/instrument-serif.woff2") format("woff2");
   font-weight: 400;
   font-display: block;
 }
 @font-face {
   font-family: "Barlow Condensed";
-  src: url("../public/fonts/barlow-condensed.woff2") format("woff2");
+  src: url("./fonts/barlow-condensed.woff2") format("woff2");
   font-weight: 800;
   font-display: block;
 }
 @font-face {
   font-family: "IBM Plex Mono";
-  src: url("../public/fonts/ibm-plex-mono.woff2") format("woff2");
+  src: url("./fonts/ibm-plex-mono.woff2") format("woff2");
   font-weight: 500;
   font-display: block;
 }

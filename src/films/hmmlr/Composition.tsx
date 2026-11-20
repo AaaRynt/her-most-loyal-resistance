@@ -7,7 +7,7 @@ import {
   useCurrentFrame,
   useDelayRender,
 } from "remotion";
-import soundtrack from "../reference/her_most_loyal_resistance.ogg";
+import soundtrack from "./assets/her_most_loyal_resistance.ogg";
 import {
   Blockade,
   Channel,

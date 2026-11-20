@@ -1,0 +1,26 @@
+@import "./fonts/fonts.css";
+
+.red-dusk-film {
+  background: #171c23;
+  color: #eee1bd;
+  overflow: hidden;
+}
+
+.red-dusk-film .rd-field {
+  display: block;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+.red-dusk-film .rd-display {
+  font-family: "RD Oswald", "Arial Narrow", sans-serif;
+}
+
+.red-dusk-film .rd-text {
+  font-family: "RD Golos Text", "Arial", sans-serif;
+}
+
+.red-dusk-film .rd-mono {
+  font-family: "RD PT Mono", monospace;
+}

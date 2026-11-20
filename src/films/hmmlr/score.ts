@@ -1,6 +1,6 @@
 import { Easing, interpolate } from "remotion";
-import analysis from "../analysis/audio-profile.json";
-import edit from "../analysis/edit-cues.json";
+import analysis from "./analysis/audio-profile.json";
+import edit from "./analysis/edit-cues.json";
 
 export const fps = edit.fps;
 export const duration = Math.ceil(analysis.duration * fps);
